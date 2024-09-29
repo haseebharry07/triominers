@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|c:\\users\\m.haseeb\\source\\repos\\triominers\\triominers\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|solutionrelative:triominers\\wwwroot\\css\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|c:\\users\\m.haseeb\\source\\repos\\triominers\\triominers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|solutionrelative:triominers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|c:\\users\\m.haseeb\\source\\repos\\triominers\\triominers\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|solutionrelative:triominers\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|c:\\users\\m.haseeb\\source\\repos\\triominers\\triominers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|solutionrelative:triominers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|c:\\users\\m.haseeb\\source\\repos\\triominers\\triominers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F0FD688-70DE-46A9-911D-20BD93DB1211}|TrioMiners\\TrioMiners.csproj|solutionrelative:triominers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TrioMiners\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TrioMiners\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T10:50:46.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyStyle.css",
+              "DocumentMoniker": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\wwwroot\\css\\MyStyle.css",
+              "RelativeDocumentMoniker": "TrioMiners\\wwwroot\\css\\MyStyle.css",
+              "ToolTip": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\wwwroot\\css\\MyStyle.css",
+              "RelativeToolTip": "TrioMiners\\wwwroot\\css\\MyStyle.css",
+              "ViewState": "AQIAAPgyAAAAAAAAAAAlwBEzAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-27T10:17:41.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\Program.cs",
+              "RelativeDocumentMoniker": "TrioMiners\\Program.cs",
+              "ToolTip": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\Program.cs",
+              "RelativeToolTip": "TrioMiners\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:50:19.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "TrioMiners\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "TrioMiners\\wwwroot\\css\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T12:33:51.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TrioMiners\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\m.haseeb\\source\\repos\\TrioMiners\\TrioMiners\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TrioMiners\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAASwHEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T12:32:50.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
